@@ -1,0 +1,241 @@
+
+
+@media screen and (max-width:992px) {
+
+
+    .main-img img {
+        width: 70%;
+    }
+
+
+    .main-text h1 {
+        font-size: 45px;
+    }
+
+
+    .review-box .review-card {
+        width: 45%;
+        margin-top: 40px;
+    }
+
+    .our-box .our-card:hover {
+        width: 440px;
+        height: 440px;
+    }
+
+    .our-box .our-card {
+        height: 340px;
+        width: 340px;
+         margin: 100px 50px;
+       
+    } 
+
+    .our-box .our-card .our-box-prfile img {
+        margin:30px auto;
+        width: 260px;
+        height: 260px;
+       
+    }
+    
+
+
+
+    .main-text{
+        width: 700px;
+        margin-top: 50px;
+    }
+
+
+    .med-sec img{
+        width: 75%;
+    }
+
+    .med-text{
+        margin-left: 40px;
+    }
+
+    .med-text h1 {
+        font-size: 45px;
+    }
+
+    .heading-text h1{
+        font-size: 40px;
+    }
+    .card {
+        width: 45%;
+    }
+
+    .review-box .review-card {
+        width: 45%;
+    }
+
+    .card-iteam {
+        width: 30%;
+}
+}
+
+
+
+
+
+
+
+@media screen and (max-width:768px) {
+
+
+    nav ul {
+        display: none;
+    }
+
+    nav .bars {
+        display: flex;
+    }
+
+    .showdata {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        flex-direction: column;
+        background: rgb(239 239 239 / 82%);
+        position: inherit;
+        top: 61px;
+        width: 100%;
+        gap: 20px;
+        margin: 0 auto;
+
+    }
+
+    .form-sec {
+        width: 30%;
+        margin: -5px 25px;
+    }
+
+
+    .card-iteam{
+        width: 45%;
+    }
+
+    .order-box .order-profile img{
+        margin:30px auto;
+        width: 230px;
+        height: 230px;
+    }
+
+    .review-box .review-card {
+        width: 45%;
+    }
+
+    .our-box .our-card:hover {
+        width: 270px;
+        height: 310px;
+        border: 5px solid #cccccc;
+        margin-top: 160px;
+    }
+
+    .our-box .our-card .our-text h1{
+        font-size: 30px;
+    }
+
+
+    .footer-text .footer-title{
+        margin: 30px 45px;
+    }
+
+    .form-sec {
+        width: 50%;
+        margin: 25px 0px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column-reverse;
+    }
+    
+    }
+
+
+
+
+
+@media screen and (max-width:400px) {
+
+    .heading-text h1{
+        font-size: 20px;
+    }
+
+    .main-text h1{
+        font-size: 30px;
+    }
+
+    .card-iteam{
+        width: 100%;
+    }
+
+    .our-box .our-card {
+        width: 250px;
+        height: 250px;
+        border: 0px solid transparent;
+        margin-top: 100px;
+       
+    }
+
+
+
+    .review-box .review-card {
+        width: 100%;
+        margin-top: 130px;
+    }
+
+
+    .review-box .review-card .review-name h1{
+        font-size: 25px;
+    }
+
+
+    .our-box .our-card:hover{
+        width: 270px;
+        height: 310px;
+        border: 5px solid #cccccc;
+        margin-top: 160px;
+    }
+
+
+
+    .our-box .our-card .our-text h1{
+        font-size: 25px;
+    }
+
+    .card {
+        width: 100%;
+    }
+
+    .order-box .order-profile img{
+        margin:30px auto;
+        width: 180px;
+        height: 180px;
+    }
+
+    .form-sec {
+        width: 100%;
+        margin: 25px 0px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column-reverse;
+    }
+    
+    
+    }
+
+    .footer-text .footer-title{
+        margin: 40px 30px;
+    }
+
+   
+    
+    
+
+
+
+
+
